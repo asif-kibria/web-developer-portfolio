@@ -122,3 +122,13 @@ nav a {
 .about-info{
     text-align: center;
 }
+.info-title{
+    font-weight: normal;
+}
+
+.info-description{
+    font-weight: bold;
+}
+#what-i-do-description{
+    padding: 30px 150px;
+}
